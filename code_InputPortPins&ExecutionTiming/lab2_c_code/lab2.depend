@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1541011236 source:d:\embedded\exp2\lab2\main.c
+	<avr/io.h>
+
